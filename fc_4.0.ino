@@ -6,7 +6,7 @@
 *   This software was meant to run on an ESP32 inside a watter-bottle rocket *
 *   It can do math, record/send flight data and deploy a parachute!          *
 *                                                                            *
-*              *
+*                                                                            *
 *                                                                            *
 ******************************************************************************/
 
